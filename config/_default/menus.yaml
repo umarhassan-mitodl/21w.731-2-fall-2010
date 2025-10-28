@@ -1,0 +1,52 @@
+leftnav:
+- identifier: d53b84fb-f3ce-dbbd-a08d-17809cc5adac
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 3d177762-643a-db9f-23b0-59e903890720
+  name: Calendar
+  pageRef: /pages/calendar/
+  weight: 20
+- identifier: 1370c127-cbb2-d603-d988-d81cc09a92ae
+  name: The Writing Workshop
+  pageRef: /pages/calendar/workshop
+  parent: 3d177762-643a-db9f-23b0-59e903890720
+  weight: 30
+- identifier: 667b2022-1fc9-6ebf-8ac5-f62c399f6fd0
+  name: Silent Reading Session
+  pageRef: /pages/calendar/silread
+  parent: 3d177762-643a-db9f-23b0-59e903890720
+  weight: 40
+- identifier: be6b5da8-f8cb-2a5c-0a8f-148a8e3bd50d
+  name: Readings
+  pageRef: /pages/readings
+  weight: 50
+- identifier: 1442702f-2c27-6bcf-afd9-8d3a29cb5a6c
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 60
+- identifier: 9d1cefcf-8ced-cb35-8c06-1a8782e91989
+  name: Writing and Reading Profile
+  pageRef: /pages/assignments/wriprof
+  parent: 1442702f-2c27-6bcf-afd9-8d3a29cb5a6c
+  weight: 70
+- identifier: 842e03df-b232-de8d-6bec-4e250bca0bcb
+  name: '"Where I Come From" Piece'
+  pageRef: /pages/assignments/wicf
+  parent: 1442702f-2c27-6bcf-afd9-8d3a29cb5a6c
+  weight: 80
+- identifier: ea76c69c-f262-5b00-3697-527b5c383523
+  name: Literacy Narrative Essay
+  pageRef: /pages/assignments/litnar
+  parent: 1442702f-2c27-6bcf-afd9-8d3a29cb5a6c
+  weight: 90
+- identifier: a1d41c38-4acb-d47d-e205-91468620b5a6
+  name: Open Topic Essay
+  pageRef: /pages/assignments/openess
+  parent: 1442702f-2c27-6bcf-afd9-8d3a29cb5a6c
+  weight: 100
+- identifier: e9dc1691-7c1e-abe1-1f48-c347de852b3a
+  name: Investigative Essay
+  pageRef: /pages/assignments/invess
+  parent: 1442702f-2c27-6bcf-afd9-8d3a29cb5a6c
+  weight: 110
